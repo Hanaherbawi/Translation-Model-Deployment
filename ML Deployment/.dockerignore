@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-model_files/  # Exclude large files if already stored elsewhere
