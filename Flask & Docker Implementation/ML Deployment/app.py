@@ -41,4 +41,4 @@ def translate():
     return jsonify({"input": input_text, "translated": translated_sentence})
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=git True)
+    app.run(host="0.0.0.0", port=5000, debug=True)
